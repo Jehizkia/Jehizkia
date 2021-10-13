@@ -6,5 +6,3 @@ a.k.a Hiz
 I’m currently working on [TailwindTemplates.io](https://tailwindtemplates.io) as a fun side project to work on whenever I feel like it. 
 
 Besides coding I love doing some motion design and video editing on the side. Here are some examples on my [YouTube channel](https://www.youtube.com/channel/UCvzLhnEaa_CKSdbgAWxLkmw).
-
-Currently I'm learning Laravel & Flutter to realize some ideas I've had for a while.
